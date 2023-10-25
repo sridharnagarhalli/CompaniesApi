@@ -1,0 +1,28 @@
+{
+  "company_number": "201",
+  "company_type": "LTD",
+  "company_name": "BBC LIMITED",
+  "date_of_creation": "2008-02-11",
+  "company_status": "active",
+  "address": {
+    "premises": "5",
+    "address_line_1": "Cranford Close",
+    "locality": "London",
+    "country": "England",
+    "postal_code": "SW20 0DP"
+  },
+  "officers": [
+    {
+      "name": "RE SECRETARIES LIMITED",
+      "office_role": "corporate-secretary",
+      "appointed_on": "2008-02-12",
+      "address": {
+        "premises": "5",
+        "address_line_1": "Cranford Close",
+        "locality": "London",
+        "country": "England",
+        "postal_code": "SW20 0DP"
+      }
+    }
+  ]
+}

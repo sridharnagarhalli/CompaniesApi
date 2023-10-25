@@ -1,0 +1,31 @@
+server:
+  port: 9099
+  servlet:
+    context-path: /TruProxyAPI/rest
+
+spring:
+  jpa:
+    properties:
+      hibernate:
+        format_sql: true
+    show-sql: true
+    defer-datasource-initialization: true
+  h2:
+    console:
+      enabled: true
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password:
+  hibernate:
+    ddl-auto: update
+
+truproxyapi:
+  API_KEY: KjTFKEGi7R11DuvLSPaV16IJLfTPCkKV3qowOXtE
+  GET_OFFICER_URL: https://exercise.trunarrative.cloud/TruProxyAPI/rest/Companies/v1/Officers?CompanyNumber=%s
+  GET_COMPANIES_URL: https://exercise.trunarrative.cloud/TruProxyAPI/rest/Companies/v1/Search?Query=companies
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui-custom.html

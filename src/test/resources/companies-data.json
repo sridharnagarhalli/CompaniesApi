@@ -1,0 +1,830 @@
+[
+  {
+    "company_number": "13277187",
+    "company_type": "private-limited-guarant-nsc",
+    "company_name": "COMPANIES LIMITED",
+    "date_of_creation": "2021-03-19",
+    "company_status": "dissolved",
+    "address": {
+      "premises": "9",
+      "address_line_1": "Heads Mount",
+      "locality": "Keswick",
+      "country": "United Kingdom",
+      "postal_code": "CA12 5EY"
+    },
+    "officers": [
+      {
+        "name": "BURTON, James Harold",
+        "office_role": "director",
+        "appointed_on": "2021-03-19",
+        "address": {
+          "premises": "9",
+          "address_line_1": "Heads Mount",
+          "locality": "Keswick",
+          "country": "United Kingdom",
+          "postal_code": "CA12 5EY"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "03358626",
+    "company_type": "ltd",
+    "company_name": "COMPANIES LIMITED",
+    "date_of_creation": "1997-04-23",
+    "company_status": "dissolved",
+    "address": {
+      "premises": "Taxback",
+      "address_line_1": "26 28 Hammersmith Grove",
+      "locality": "London",
+      "country": "United Kingdom",
+      "postal_code": "W6 7BA"
+    },
+    "officers": [
+      {
+        "name": "GOODLAD, Paul Martin",
+        "office_role": "director",
+        "appointed_on": "1997-04-23",
+        "address": {
+          "premises": "26f",
+          "address_line_1": "Kensington Court",
+          "locality": "London",
+          "country": null,
+          "postal_code": "W8 5DH"
+        }
+      },
+      {
+        "name": "SAMAD, Terence Abrahim",
+        "office_role": "director",
+        "appointed_on": "2008-01-11",
+        "address": {
+          "premises": "3",
+          "address_line_1": "Clifden Road",
+          "locality": "Brentford",
+          "country": "England",
+          "postal_code": "TW8 0PB"
+        }
+      },
+      {
+        "name": "DRUMMOND, John Scot",
+        "office_role": "director",
+        "appointed_on": "1997-04-23",
+        "address": {
+          "premises": null,
+          "address_line_1": "2 Magnolia Road",
+          "locality": "London",
+          "country": null,
+          "postal_code": "W4 3QY"
+        }
+      },
+      {
+        "name": "DRUMMOND, John Scot",
+        "office_role": "secretary",
+        "appointed_on": "1997-04-23",
+        "address": {
+          "premises": null,
+          "address_line_1": "2 Magnolia Road",
+          "locality": "London",
+          "country": null,
+          "postal_code": "W4 3QY"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "08497322",
+    "company_type": "ltd",
+    "company_name": "AIES ECONOMIC STRATEGY RESEARCH CENTER LTD",
+    "date_of_creation": "2013-04-22",
+    "company_status": "active",
+    "address": {
+      "premises": "1st",
+      "address_line_1": "Floor Front",
+      "locality": "London",
+      "country": "England",
+      "postal_code": "W1D 5QA"
+    },
+    "officers": [
+      {
+        "name": "QIAO, Wei",
+        "office_role": "director",
+        "appointed_on": "2023-05-04",
+        "address": {
+          "premises": "1st Floor Front",
+          "address_line_1": "36 Gerrard Street",
+          "locality": "London",
+          "country": "England",
+          "postal_code": "W1D 5QA"
+        }
+      },
+      {
+        "name": "WANG, Shuoguang",
+        "office_role": "director",
+        "appointed_on": "2013-04-22",
+        "address": {
+          "premises": "2nd",
+          "address_line_1": "Floor Front",
+          "locality": "London",
+          "country": "United Kingdom",
+          "postal_code": "W1D 5QA"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "14372657",
+    "company_type": "ltd",
+    "company_name": "COLLEGE OF CONSTRUCTION AND REAL ESTATE MANAGEMENT LTD",
+    "date_of_creation": "2022-09-23",
+    "company_status": "active",
+    "address": {
+      "premises": "20-22",
+      "address_line_1": "Wenlock Road",
+      "locality": "London",
+      "country": "England",
+      "postal_code": "N1 7GU"
+    },
+    "officers": [
+      {
+        "name": "AHMED, Asmaa Elsayed",
+        "office_role": "director",
+        "appointed_on": "2022-09-23",
+        "address": {
+          "premises": "20-22",
+          "address_line_1": "Wenlock Road",
+          "locality": "London",
+          "country": "England",
+          "postal_code": "N1 7GU"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "09301096",
+    "company_type": "ltd",
+    "company_name": "COMPANIES ASSISTANCE SERVICES LTD",
+    "date_of_creation": "2014-11-07",
+    "company_status": "active",
+    "address": {
+      "premises": "Companyplanet Unit",
+      "address_line_1": "50 Salisbury Road",
+      "locality": "Hounslow / Greater London",
+      "country": null,
+      "postal_code": "TW4 6JQ"
+    },
+    "officers": [
+      {
+        "name": "FENESSY, Lindsey",
+        "office_role": "director",
+        "appointed_on": "2015-12-21",
+        "address": {
+          "premises": "275",
+          "address_line_1": "Deansgate Street",
+          "locality": "Manchester",
+          "country": "England",
+          "postal_code": "M3 4EL"
+        }
+      },
+      {
+        "name": "DE LA PORTE, Rene",
+        "office_role": "secretary",
+        "appointed_on": "2014-11-07",
+        "address": {
+          "premises": "Suite 192",
+          "address_line_1": "2 Lansdowne Row",
+          "locality": "London",
+          "country": "United Kingdom",
+          "postal_code": "W1J 6HL"
+        }
+      },
+      {
+        "name": "COMPANYPLANET LTD",
+        "office_role": "corporate-director",
+        "appointed_on": "2017-03-01",
+        "address": {
+          "premises": "Companyplanet Unit",
+          "address_line_1": "Salisbury Road",
+          "locality": "Hounslow",
+          "country": "England",
+          "postal_code": "TW4 6JQ"
+        }
+      },
+      {
+        "name": "FENESSY, Thomas",
+        "office_role": "director",
+        "appointed_on": "2014-11-07",
+        "address": {
+          "premises": "275",
+          "address_line_1": "Deansgate",
+          "locality": "Manchester",
+          "country": "United Kingdom",
+          "postal_code": "M3 4EL"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "15121006",
+    "company_type": "ltd",
+    "company_name": "COMPANIES BAR LIMITED",
+    "date_of_creation": "2023-09-07",
+    "company_status": "active",
+    "address": {
+      "premises": "6",
+      "address_line_1": "Sussex Lodge",
+      "locality": "London",
+      "country": "England",
+      "postal_code": "W2 2SG"
+    },
+    "officers": [
+      {
+        "name": "KOURAV, Uddeshya",
+        "office_role": "director",
+        "appointed_on": "2023-09-07",
+        "address": {
+          "premises": "6 Sussex Lodge",
+          "address_line_1": "Sussex Place",
+          "locality": "London",
+          "country": "England",
+          "postal_code": "W2 2SG"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "NI641677",
+    "company_type": "ltd",
+    "company_name": "COMPANIESBIZ LTD",
+    "date_of_creation": "2016-10-24",
+    "company_status": "active",
+    "address": {
+      "premises": "7",
+      "address_line_1": "Knowledge House, Down Business Park",
+      "locality": "Downpatrick",
+      "country": "Northern Ireland",
+      "postal_code": "BT30 9UP"
+    },
+    "officers": [
+      {
+        "name": "FAULKNER, Kathy",
+        "office_role": "director",
+        "appointed_on": "2018-05-02",
+        "address": {
+          "premises": "Suite 7 Knowledge House",
+          "address_line_1": "46 Belfast Road",
+          "locality": "Downpatrick",
+          "country": "Northern Ireland",
+          "postal_code": "BT30 9UP"
+        }
+      },
+      {
+        "name": "CAUGHEY, Sean",
+        "office_role": "director",
+        "appointed_on": "2019-11-27",
+        "address": {
+          "premises": "18",
+          "address_line_1": "Quay Street",
+          "locality": "Downpatrick",
+          "country": "Northern Ireland",
+          "postal_code": "BT30 7SA"
+        }
+      },
+      {
+        "name": "CAUGHEY, Eoin Michael",
+        "office_role": "director",
+        "appointed_on": "2016-10-24",
+        "address": {
+          "premises": "Suite 7 Knowledge House",
+          "address_line_1": "46 Belfast Road",
+          "locality": "Downpatrick",
+          "country": "Northern Ireland",
+          "postal_code": "BT30 9UP"
+        }
+      },
+      {
+        "name": "CAUGHEY, Conor",
+        "office_role": "director",
+        "appointed_on": "2019-05-21",
+        "address": {
+          "premises": "7 Knowledge House, Down Business Park",
+          "address_line_1": "46 Belfast Road",
+          "locality": "Downpatrick",
+          "country": "Northern Ireland",
+          "postal_code": "BT30 9UP"
+        }
+      },
+      {
+        "name": "CAUGHEY, Sean",
+        "office_role": "director",
+        "appointed_on": "2017-01-27",
+        "address": {
+          "premises": "Suite 7 Knowledge House",
+          "address_line_1": "46 Belfast Road",
+          "locality": "Downpatrick",
+          "country": "Northern Ireland",
+          "postal_code": "BT30 9UP"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "07720760",
+    "company_type": "ltd",
+    "company_name": "COMPANIES BLUE LIMITED",
+    "date_of_creation": "2011-07-28",
+    "company_status": "active",
+    "address": {
+      "premises": "131",
+      "address_line_1": "Gordon Road",
+      "locality": "Ilford",
+      "country": null,
+      "postal_code": "IG1 2XT"
+    },
+    "officers": [
+      {
+        "name": "COLE, Ian",
+        "office_role": "director",
+        "appointed_on": "2011-07-28",
+        "address": {
+          "premises": "20-22",
+          "address_line_1": "Wenlock Road",
+          "locality": "London",
+          "country": "England",
+          "postal_code": "N1 7GU"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "09877832",
+    "company_type": "ltd",
+    "company_name": "COMPANIES DIRECT LIMITED",
+    "date_of_creation": "2015-11-18",
+    "company_status": "active",
+    "address": {
+      "premises": "C/O National Business Register Group Ltd Ground Floor, 3 Sovereign Court",
+      "address_line_1": "Graham Street",
+      "locality": "Birmingham",
+      "country": "United Kingdom",
+      "postal_code": "B1 3JR"
+    },
+    "officers": [
+      {
+        "name": "BREWER, Kevin",
+        "office_role": "director",
+        "appointed_on": "2015-11-18",
+        "address": {
+          "premises": "Somerset House",
+          "address_line_1": "6070 Birmingham Business Park",
+          "locality": "Birmingham",
+          "country": "United Kingdom",
+          "postal_code": "B37 7BF"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "12523946",
+    "company_type": "ltd",
+    "company_name": "COMPANIES DIRECTORIES LIMITED",
+    "date_of_creation": "2020-03-18",
+    "company_status": "active",
+    "address": {
+      "premises": "64",
+      "address_line_1": "Wills Street",
+      "locality": "Birmingham",
+      "country": "England",
+      "postal_code": "B19 1QR"
+    },
+    "officers": [
+      {
+        "name": "WALKER, Brody",
+        "office_role": "director",
+        "appointed_on": "2020-03-18",
+        "address": {
+          "premises": "64",
+          "address_line_1": "Wills Street",
+          "locality": "Birmingham",
+          "country": "England",
+          "postal_code": "B19 1QR"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "13448927",
+    "company_type": "ltd",
+    "company_name": "COMPANIES DOT SUPPORT LTD",
+    "date_of_creation": "2021-06-10",
+    "company_status": "active",
+    "address": {
+      "premises": "65a",
+      "address_line_1": "Station Road",
+      "locality": "Edgware",
+      "country": "United Kingdom",
+      "postal_code": "HA8 7HX"
+    },
+    "officers": [
+      {
+        "name": "SGOUMPOPOULOS, Christos",
+        "office_role": "director",
+        "appointed_on": "2021-06-10",
+        "address": {
+          "premises": "65a",
+          "address_line_1": "Station Road",
+          "locality": "Edgware",
+          "country": "United Kingdom",
+          "postal_code": "HA8 7HX"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "11521194",
+    "company_type": "ltd",
+    "company_name": "COMPANIES EXCHANGE LIMITED",
+    "date_of_creation": "2018-08-16",
+    "company_status": "dissolved",
+    "address": {
+      "premises": "Academy House",
+      "address_line_1": "11 Dunraven Place",
+      "locality": "Bridgend",
+      "country": "United Kingdom",
+      "postal_code": "CF31 1JF"
+    },
+    "officers": [
+      {
+        "name": "CHAPPELL, Jonathan",
+        "office_role": "director",
+        "appointed_on": "2018-08-16",
+        "address": {
+          "premises": "Academy House",
+          "address_line_1": "11 Dunraven Place",
+          "locality": "Bridgend",
+          "country": "United Kingdom",
+          "postal_code": "CF31 1JF"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "14982581",
+    "company_type": "ltd",
+    "company_name": "COMPANIES FORMATION DIRECT LTD",
+    "date_of_creation": "2023-07-05",
+    "company_status": "active",
+    "address": {
+      "premises": "Unit 2",
+      "address_line_1": "Bridge Court Liverpool New Road",
+      "locality": "Preston",
+      "country": "England",
+      "postal_code": "PR4 5BF"
+    },
+    "officers": [
+      {
+        "name": "KIRBY, Gregory Thomas",
+        "office_role": "director",
+        "appointed_on": "2023-07-05",
+        "address": {
+          "premises": "Unit 2 Bridge Court",
+          "address_line_1": "Liverpool New Road",
+          "locality": "Preston",
+          "country": "England",
+          "postal_code": "PR4 5BF"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "13617333",
+    "company_type": "ltd",
+    "company_name": "COMPANIES FORMATION, HOSTING & OPERATION LTD",
+    "date_of_creation": "2021-09-13",
+    "company_status": "active",
+    "address": {
+      "premises": "84",
+      "address_line_1": "- 90 84 - 90 High Street",
+      "locality": "Dudley",
+      "country": "England",
+      "postal_code": "DY1 1QP"
+    },
+    "officers": [
+      {
+        "name": "CICEU, Augustin",
+        "office_role": "director",
+        "appointed_on": "2021-09-13",
+        "address": {
+          "premises": "84 - 90",
+          "address_line_1": "84 - 90 High Street",
+          "locality": "Dudley",
+          "country": "England",
+          "postal_code": "DY1 1QP"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "15012128",
+    "company_type": "ltd",
+    "company_name": "COMPANIES FORMATIONS LTD",
+    "date_of_creation": "2023-07-19",
+    "company_status": "active",
+    "address": {
+      "premises": "5",
+      "address_line_1": "Somerford Road",
+      "locality": "Cirencester",
+      "country": "England",
+      "postal_code": "GL7 1TP"
+    },
+    "officers": [
+      {
+        "name": "MITACHE, Mihai-Catalin",
+        "office_role": "director",
+        "appointed_on": "2023-07-19",
+        "address": {
+          "premises": "5",
+          "address_line_1": "Somerford Road",
+          "locality": "Cirencester",
+          "country": "England",
+          "postal_code": "GL7 1TP"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "13796938",
+    "company_type": "ltd",
+    "company_name": "COMPANIES4SALE LTD",
+    "date_of_creation": "2021-12-13",
+    "company_status": "dissolved",
+    "address": {
+      "premises": "71-75",
+      "address_line_1": "Shelton Street",
+      "locality": "London",
+      "country": "United Kingdom",
+      "postal_code": "WC2H 9JQ"
+    },
+    "officers": [
+      {
+        "name": "HESKETH, David",
+        "office_role": "director",
+        "appointed_on": "2021-12-13",
+        "address": {
+          "premises": "71-75",
+          "address_line_1": "Shelton Street",
+          "locality": "London",
+          "country": "United Kingdom",
+          "postal_code": "WC2H 9JQ"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "05579757",
+    "company_type": "ltd",
+    "company_name": "COMPANIES 4 U SECRETARIES LIMITED",
+    "date_of_creation": "2005-09-30",
+    "company_status": "active",
+    "address": {
+      "premises": "Wincham House",
+      "address_line_1": "Greenfield Farm Trading Estate",
+      "locality": "Congleton",
+      "country": null,
+      "postal_code": "CW12 4TR"
+    },
+    "officers": [
+      {
+        "name": "WINCHAM ACCOUNTANTS LIMITED",
+        "office_role": "corporate-secretary",
+        "appointed_on": "2011-11-21",
+        "address": {
+          "premises": "Wincham House",
+          "address_line_1": "Greenfield Farm Trading Estate",
+          "locality": "Congleton",
+          "country": "United Kingdom",
+          "postal_code": "CW12 4TR"
+        }
+      },
+      {
+        "name": "OWEN, Julie Ann",
+        "office_role": "secretary",
+        "appointed_on": "2005-09-30",
+        "address": {
+          "premises": null,
+          "address_line_1": "1 Poplar Close",
+          "locality": "Congleton",
+          "country": null,
+          "postal_code": "CW12 4UJ"
+        }
+      },
+      {
+        "name": "HALLATT, Lucinda Jane",
+        "office_role": "director",
+        "appointed_on": "2006-09-30",
+        "address": {
+          "premises": null,
+          "address_line_1": "23 Essex Close",
+          "locality": "Congleton",
+          "country": null,
+          "postal_code": "CW12 1SH"
+        }
+      },
+      {
+        "name": "HALLATT, Jon Antony",
+        "office_role": "director",
+        "appointed_on": "2010-02-01",
+        "address": {
+          "premises": "Wincham House",
+          "address_line_1": "Greenfield Farm Trading Estate",
+          "locality": "Congleton",
+          "country": null,
+          "postal_code": "CW12 4TR"
+        }
+      },
+      {
+        "name": "ROACH, Malcolm David",
+        "office_role": "secretary",
+        "appointed_on": "2007-01-15",
+        "address": {
+          "premises": null,
+          "address_line_1": "22 Oak Drive",
+          "locality": "Scholar Green",
+          "country": null,
+          "postal_code": "ST7 3LY"
+        }
+      },
+      {
+        "name": "SPOONER, Paul Rodney",
+        "office_role": "director",
+        "appointed_on": "2005-10-10",
+        "address": {
+          "premises": null,
+          "address_line_1": "Post Box Cottage",
+          "locality": "Congleton",
+          "country": null,
+          "postal_code": "CW12 4TE"
+        }
+      },
+      {
+        "name": "ROACH, Mark Damion",
+        "office_role": "director",
+        "appointed_on": "2006-09-30",
+        "address": {
+          "premises": null,
+          "address_line_1": "6 Westholme Close",
+          "locality": "Congleton",
+          "country": null,
+          "postal_code": "CW12 4FZ"
+        }
+      },
+      {
+        "name": "ROACH, Malcolm David",
+        "office_role": "director",
+        "appointed_on": "2006-02-01",
+        "address": {
+          "premises": "Wincham House",
+          "address_line_1": "Greenfield Farm Trading Estate",
+          "locality": "Congleton",
+          "country": null,
+          "postal_code": "CW12 4TR"
+        }
+      },
+      {
+        "name": "PILKINGTON, Simon Mark",
+        "office_role": "director",
+        "appointed_on": "2005-09-30",
+        "address": {
+          "premises": null,
+          "address_line_1": "4 Hatrell Street",
+          "locality": "Newcastle Under Lyme",
+          "country": null,
+          "postal_code": "ST5 1LX"
+        }
+      },
+      {
+        "name": "DEACON, Charles Julian",
+        "office_role": "secretary",
+        "appointed_on": "2005-10-10",
+        "address": {
+          "premises": null,
+          "address_line_1": "17 Bramfield Drive",
+          "locality": "Newcastle",
+          "country": null,
+          "postal_code": "ST5 0ST"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "NI684350",
+    "company_type": "ltd",
+    "company_name": "COMPANIES4U SERVICES LTD",
+    "date_of_creation": "2021-12-09",
+    "company_status": "active",
+    "address": {
+      "premises": "11-13",
+      "address_line_1": "Lower Catherine Street",
+      "locality": "Newry",
+      "country": "United Kingdom",
+      "postal_code": "BT35 6BE"
+    },
+    "officers": [
+      {
+        "name": "AHRENS, Uwe",
+        "office_role": "director",
+        "appointed_on": "2021-12-09",
+        "address": {
+          "premises": "11-13",
+          "address_line_1": "Lower Catherine Street",
+          "locality": "Newry",
+          "country": "United Kingdom",
+          "postal_code": "BT35 6BE"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "14281307",
+    "company_type": "ltd",
+    "company_name": "COMPANIES HOUSE REGISTRATION CERTIFICATE LIMITED",
+    "date_of_creation": "2022-08-08",
+    "company_status": "active",
+    "address": {
+      "premises": "42",
+      "address_line_1": "Lyttelton Road",
+      "locality": "Droitwich",
+      "country": "United Kingdom",
+      "postal_code": "WR9 7AB"
+    },
+    "officers": [
+      {
+        "name": "CASEY, Craig",
+        "office_role": "director",
+        "appointed_on": "2022-08-08",
+        "address": {
+          "premises": "42",
+          "address_line_1": "Lyttelton Road, Droitwich",
+          "locality": "Worcsester",
+          "country": "United Kingdom",
+          "postal_code": "WR9 7AB"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "13519244",
+    "company_type": "ltd",
+    "company_name": "COMPANIES IN A BOX LIMITED",
+    "date_of_creation": "2021-07-19",
+    "company_status": "active",
+    "address": {
+      "premises": "2",
+      "address_line_1": "Fullers Yard",
+      "locality": "Margate",
+      "country": "United Kingdom",
+      "postal_code": "CT9 1NA"
+    },
+    "officers": [
+      {
+        "name": "HOLMES, Michael",
+        "office_role": "director",
+        "appointed_on": "2021-07-19",
+        "address": {
+          "premises": "2",
+          "address_line_1": "Fullers Yard",
+          "locality": "Margate",
+          "country": "United Kingdom",
+          "postal_code": "CT9 1NA"
+        }
+      }
+    ]
+  },
+  {
+    "company_number": "201",
+    "company_type": "LTD",
+    "company_name": "BBC LIMITED",
+    "date_of_creation": "2008-02-11",
+    "company_status": "active",
+    "address": {
+      "premises": "5",
+      "address_line_1": "Cranford Close",
+      "locality": "London",
+      "country": "England",
+      "postal_code": "SW20 0DP"
+    },
+    "officers": [
+      {
+        "name": "RE SECRETARIES LIMITED",
+        "office_role": "corporate-secretary",
+        "appointed_on": "2008-02-12",
+        "address": {
+          "premises": "5",
+          "address_line_1": "Cranford Close",
+          "locality": "London",
+          "country": "England",
+          "postal_code": "SW20 0DP"
+        }
+      }
+    ]
+  }
+]

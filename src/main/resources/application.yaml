@@ -22,7 +22,7 @@ spring:
     ddl-auto: update
 
 truproxyapi:
-  API_KEY: KjTFKEGi7R11DuvLSPaV16IJLfTPCkKV3qowOXtE
+  API_KEY: TO_BE_UPDATED
   GET_OFFICER_URL: https://exercise.trunarrative.cloud/TruProxyAPI/rest/Companies/v1/Officers?CompanyNumber=%s
   GET_COMPANIES_URL: https://exercise.trunarrative.cloud/TruProxyAPI/rest/Companies/v1/Search?Query=companies
 
